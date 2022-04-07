@@ -1,0 +1,30 @@
+#getNumber {
+    font-size: 22px;
+    text-align: center;
+}
+
+.inputNumberBox {
+    display: flex;
+    justify-content: center;
+}
+
+#paragragh {
+    margin-left: 20px;
+    background-color: BLue;
+    color:white ;
+    padding: 30px;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.instructions {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
